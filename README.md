@@ -2,9 +2,11 @@
 Dospy is powerfull tool, u can DDoS whoever u want.
 
 first u need to clone this repository using git clone
-git clone 
+
+git clone https://github.com/Szymonek224/Dospy.git
 -----------------------------------------------------------
 Now you have to go to the directory
+
 -----------------------------------------------------------
 cd Dospy
 -----------------------------------------------------------
